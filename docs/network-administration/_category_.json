@@ -1,0 +1,8 @@
+{
+  "label": "Network Administration",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "This would help users looking for information on managing network devices or resolving hardware issues find the guide easily."
+  }
+}

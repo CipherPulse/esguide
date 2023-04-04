@@ -1,0 +1,8 @@
+{
+  "label": "Web Security",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Web security refers to the measures and strategies implemented to safeguard websites, web applications, and user data from potential threats and cyberattacks. It encompasses various techniques, including encryption, firewalls, secure coding practices, and regular updates, aimed at ensuring the confidentiality, integrity, and availability of online information. Effective web security helps protect both businesses and users from data breaches, malware, and other malicious activities."
+  }
+}
