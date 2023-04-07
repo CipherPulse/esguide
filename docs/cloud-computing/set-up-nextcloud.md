@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-description: How to Set Up Nextcloud Using Docker Compose A Step-by-Step Guide
+description: Explore the world of Nextcloud, a self-hosted cloud storage platform, in this in-depth guide. Learn how to install, configure, and secure your Nextcloud instance, ensuring the privacy and accessibility of your files across devices.
 ---
-Nextcloud Using Docker Compose
+Nextcloud Essentials: A Comprehensive Guide to Your Private Cloud Storage Solution
 ==================================================================
 
 This guide provides a step-by-step walkthrough on setting up Nextcloud using Docker Compose. Nextcloud is a self-hosted cloud storage solution that enables you to access and share your files securely. Docker Compose simplifies the deployment of multiple containers, making it easier to manage the entire Nextcloud stack.
