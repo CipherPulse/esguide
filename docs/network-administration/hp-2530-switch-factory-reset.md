@@ -1,9 +1,11 @@
 ---
 sidebar_position: 1
+description: Simple Guide on how to Reset Password on HP Aruba 2540 / 2500-Series Switches
 ---
-# Simple Guide: Reset Password on HP Aruba 2540 / 2500-Series Switches
+# HP Aruba 2540 / 2500-Series Switches
 
-Follow these easy steps to reset your Aruba or HP switch password:
+To reset the password on HP Aruba 2540 / 2500-Series Switches, follow these steps:
+
 
 1. **Find the CLEAR button**: The button is on the switch's front panel.
 
